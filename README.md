@@ -1,3 +1,3 @@
 # Data_professional_survey_23
 
-This repo is about reviews of the employees. 
+This projoect aims to assist business in extracting meaningful insights from survey responses, facilitating informed decision-making and strategic planning. With the help of Power BI we have process, visualize and derive valuable isngights from survey responses, ultimately aiding in informed decision-making.
